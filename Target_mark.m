@@ -1,4 +1,4 @@
-img = imread('G:\UPC\PhD\JRS\Matlab\img\E2.png');
+img = imread('...\E1.png');
 bw = im2bw(img);
 
 [L,num] = bwlabel(bw);
