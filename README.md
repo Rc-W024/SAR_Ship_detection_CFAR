@@ -15,6 +15,11 @@ MM is a technique for the analysis and treatment of geometric structures, based 
 
 For the filtered SAR image, a simple erosion operation can remove small nonsensical objects and speckle noises with independent high brightness that is erroneously judged as the target pixel in the image. And the dilation operation can fill the black hole caused by the low value speckle noises in the target area, and it can also fill in the missing target pixels and connect the adjacent unconnected target area pixels.
 
+## Introduction for files
+Folder "Raw images" --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file.
+CFAR_ship_detection --- Algorithm code, which has a detailed explanation.
+
+
 ## One more thing...
 If you are interested in this project, you can also study my preprint paper: https://www.preprints.org/manuscript/202112.0280/v1
 
