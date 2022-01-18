@@ -18,11 +18,17 @@ For the filtered SAR image, a simple erosion operation can remove small nonsensi
 ## Introduction for files
 Folder "Raw images" --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file.
 
+![image](https://user-images.githubusercontent.com/97808991/149931264-456b8d39-c7f2-423b-ba48-a471109e8844.png)
+
 CFAR_ship_detection --- Algorithm code, which has a detailed explanation.
 
 Rayleigh_distribution --- Plot the probability density of the Rayleigh distribution.
 
+![image](https://user-images.githubusercontent.com/97808991/149931239-b8c9b1b2-2e62-40c5-acec-c2fac02278e4.png)
+
 Target_mark --- A simple target box code that can be used to study marking the target.
+
+![gf_hh_01](https://user-images.githubusercontent.com/97808991/149931364-a7f6d9e7-230b-4d32-b9d8-912184051510.png)
 
 ## One more thing...
 If you are interested in this project, you can also study my preprint paper: https://www.preprints.org/manuscript/202112.0280/v1
