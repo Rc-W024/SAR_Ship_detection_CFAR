@@ -1,4 +1,9 @@
 # SAR Ship detection based on CFAR
+
+![](https://img.shields.io/github/stars/Rc-W024/SAR_Ship_detection_CFAR.svg)
+![](https://img.shields.io/github/forks/Rc-W024/SAR_Ship_detection_CFAR.svg)
+![](https://img.shields.io/github/issues/Rc-W024/SAR_Ship_detection_CFAR.svg)
+
 SAR image targets detection is one of the main needs of radar image interpretation applications. In this project, an improved two-parameter CFAR algorithm based on Rayleigh distribution and morphological processing is proposed to perform ship detection and recognition in high resolution SAR images. In this project, I will provide a few simple template codes to help beginners understand and learn related theories and algorithms. They are not only suitable for simple experiments, but also suitable for later expansion. 
 
 Hope it helps you!
