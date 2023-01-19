@@ -3,6 +3,7 @@
 ![](https://img.shields.io/github/stars/Rc-W024/SAR_Ship_detection_CFAR.svg)
 ![](https://img.shields.io/github/forks/Rc-W024/SAR_Ship_detection_CFAR.svg)
 ![](https://img.shields.io/github/issues/Rc-W024/SAR_Ship_detection_CFAR.svg)
+![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99)
 
 SAR image targets detection is one of the main needs of radar image interpretation applications. In this project, an improved two-parameter CFAR algorithm based on Rayleigh distribution and morphological processing is proposed to perform ship detection and recognition in high resolution SAR images. In this project, I will provide a few simple template codes to help beginners understand and learn related theories and algorithms. They are not only suitable for simple experiments, but also suitable for later expansion. 
 
@@ -29,25 +30,17 @@ For the filtered SAR image, a simple erosion operation can remove small nonsensi
 数学形态学是一种基于集合论、格论、拓扑和随机函数的几何结构分析和处理技术，它不仅适用于数字图像，还可用于图形、多边形网格、实体和许多其他空间结构。对于滤波后的SAR图像，简单的腐蚀操作可以去除图像中被误判为目标像素的、具有独立高亮度的、小的、无意义的物体和散斑噪声；而膨胀运算可以填充目标区域中低值散斑噪声造成的空隙，也可以填充缺失的目标像素，连接相邻的未连接的目标区域像素。
 
 ## Introduction for files
-Folder `Raw images` --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file.
-
-文件夹`Raw images`：提供了一些SAR图像切片来执行船舶检测，其中还包含了对应的XLM文件中的目标信息
+Folder `Raw images` --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file. 提供了一些SAR图像切片来执行船舶检测，其中还包含了对应的XLM文件中的目标信息
 
 ![image](https://user-images.githubusercontent.com/97808991/149931264-456b8d39-c7f2-423b-ba48-a471109e8844.png)
 
-`CFAR_ship_detection` --- Algorithm code, which has a detailed explanation.
+`CFAR_ship_detection` --- Algorithm code, which has a detailed explanation. 基础算法代码，里面有详细的解释
 
-`CFAR_ship_detection`：基础算法代码，里面有详细的解释
-
-`Rayleigh_distribution` --- Plot the probability density of the Rayleigh distribution.
-
-`Rayleigh_distribution`：绘制瑞利分布的概率密度图
+`Rayleigh_distribution` --- Plot the probability density of the Rayleigh distribution. 绘制瑞利分布的概率密度图
 
 ![image](https://user-images.githubusercontent.com/97808991/149931239-b8c9b1b2-2e62-40c5-acec-c2fac02278e4.png)
 
-`Target_mark` --- A simple target box code that can be used to study marking the target.
-
-`Target_mark`：一个简单的目标框代码，可以用来研究标记目标的方法
+`Target_mark` --- A simple target box code that can be used to study marking the target. 一个简单的目标框代码，可以用来研究标记目标的方法
 
 ![gf_hh_01](https://user-images.githubusercontent.com/97808991/149931364-a7f6d9e7-230b-4d32-b9d8-912184051510.png)
 
