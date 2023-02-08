@@ -30,7 +30,11 @@ For the filtered SAR image, a simple erosion operation can remove small nonsensi
 数学形态学是一种基于集合论、格论、拓扑和随机函数的几何结构分析和处理技术，它不仅适用于数字图像，还可用于图形、多边形网格、实体和许多其他空间结构。对于滤波后的SAR图像，简单的腐蚀操作可以去除图像中被误判为目标像素的、具有独立高亮度的、小的、无意义的物体和散斑噪声；而膨胀运算可以填充目标区域中低值散斑噪声造成的空隙，也可以填充缺失的目标像素，连接相邻的未连接的目标区域像素。
 
 ## Available Data
-China Center for Resources Satellite Data and Application and Copernicus Open Access Hub (Gaofen-3 & Sentinel-1): [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
+China Center for Resources Satellite Data and Application, Copernicus Open Access Hub - Gaofen-3 & Sentinel-1
+
+中国资源卫星应用中心和哥白尼开放数据访问中心提供的高分三号和哨兵一号影像。
+
+GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
 ## Introduction for Files
 Folder `Raw images` --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file. 提供了一些SAR图像切片来执行船舶检测，其中还包含了对应的XLM文件中的目标信息
