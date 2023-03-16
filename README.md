@@ -59,6 +59,6 @@ If you are interested in this project, you can also study my preprint paper: htt
 Wu, R. Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images. Preprints 2021, 2021120280 (doi: 10.20944/preprints202112.0280.v1).
 
 ## Relevant Master's Thesis...
-Detección y reconocimiento de blancos basados en imágenes SAR: http://hdl.handle.net/10251/166986 (TRABAJO FIN DE MÁSTER - UNIVERSITAT POLITÈCNICA DE VALÈNCIA)
+DETECCIÓN Y RECONOCIMIENTO DE BLANCOS BASADOS EN IMÁGENES SAR<br>http://hdl.handle.net/10251/166986 (Trabajo Fin de Máster - Universitat Politècnica de València)
 
-引用格式 Citation format：Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. Universitat Politècnica de València. http://hdl.handle.net/10251/166986
+Citation format：Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. Universitat Politècnica de València. http://hdl.handle.net/10251/166986
