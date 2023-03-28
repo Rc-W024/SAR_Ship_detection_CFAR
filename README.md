@@ -54,7 +54,7 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 ## One more thing...
 If you are interested in this project, you can also study my preprint paper: https://www.preprints.org/manuscript/202112.0280/v1
 
-如果你对这个项目感兴趣，也可以了解研究一下我的预印本论文！[当然也欢迎申请访问我的硕士论文（西班牙语版本）
+如果你对这个项目感兴趣，也可以了解研究一下我的预印本论文！【当然也欢迎申请访问我的硕士论文（西班牙语版本）
 
 Wu, R. Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images. Preprints 2021, 2021120280 (doi: 10.20944/preprints202112.0280.v1).
 
