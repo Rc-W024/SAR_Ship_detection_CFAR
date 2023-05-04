@@ -32,7 +32,7 @@ For the filtered SAR image, a simple erosion operation can remove small nonsensi
 ## Available Data
 China Center for Resources Satellite Data and Application, Copernicus Open Access Hub - Gaofen-3 & Sentinel-1
 
-数据集使用了中国资源卫星应用中心和哥白尼开放数据访问中心提供的**高分三号**和**哨兵一号**SAR影像。
+数据集使用了中国资源卫星应用中心和哥白尼开放数据访问中心提供的**高分三号**和**哨兵一号**SAR卫星影像。
 
 GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
