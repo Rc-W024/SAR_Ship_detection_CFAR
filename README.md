@@ -37,7 +37,7 @@ China Center for Resources Satellite Data and Application, Copernicus Open Acces
 GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
 ## Introduction for Files
-Folder `Raw images` --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file. 提供了一些SAR图像切片来执行船舶检测，其中还包含了对应的XLM文件中的目标信息
+Folder `Raw images` --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the XLM file. 用于船舶检测的SAR图像切片，其中包含了对应的目标信息（XLM文件）
 
 ![image](https://user-images.githubusercontent.com/97808991/149931264-456b8d39-c7f2-423b-ba48-a471109e8844.png)
 
