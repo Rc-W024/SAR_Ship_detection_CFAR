@@ -41,7 +41,7 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 
 ![image](https://user-images.githubusercontent.com/97808991/149931264-456b8d39-c7f2-423b-ba48-a471109e8844.png)
 
-[`CFAR_ship_detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/CAFR_ship_detection.m) --- Algorithm code, which has a detailed explanation. 基础算法代码，里面有详细的解释
+[`CFAR_ship_detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/CAFR_ship_detection.m) --- Algorithm code, which has a detailed explanation. 基础算法代码，内附详细注释
 
 [`Rayleigh_distribution`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/Rayleigh_distribution.m) --- Plot the probability density of the Rayleigh distribution. 绘制瑞利分布的概率密度图
 
