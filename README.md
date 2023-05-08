@@ -47,14 +47,14 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 
 ![image](https://user-images.githubusercontent.com/97808991/149931239-b8c9b1b2-2e62-40c5-acec-c2fac02278e4.png)
 
-[`Target_mark`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/Target_mark.m) --- A simple target box code that can be used to study marking the target. 一个简单的目标框代码，可以用来研究标记目标的方法
+[`Target_mark`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/Target_mark.m) --- A simple target box code that can be used to study marking the target. 简单的目标框代码，可用来研究标记目标的方法
 
 ![gf_hh_01](https://user-images.githubusercontent.com/97808991/149931364-a7f6d9e7-230b-4d32-b9d8-912184051510.png)
 
 ## One more thing...
-If you are interested in this project, you can also study my preprint paper: https://doi.org/10.20944/preprints202112.0280.v1
+If you are interested in this project, you can also read my preprint paper: https://doi.org/10.20944/preprints202112.0280.v1
 
-如果你对这个项目感兴趣，也可以了解研究一下我的预印本论文！【当然也欢迎申请访问我的硕士论文（西班牙语版本）
+如果你对这个项目感兴趣，也可以了解、研究一下我的预印本论文！【当然也欢迎申请访问我的硕士论文（西班牙语）
 
 Wu, R. Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images. Preprints 2021, 2021120280. DOI: [10.20944/preprints202112.0280.v1](https://doi.org/10.20944/preprints202112.0280.v1)
 
