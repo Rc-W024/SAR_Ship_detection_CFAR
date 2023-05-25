@@ -9,7 +9,7 @@ SAR image targets detection is one of the main needs of radar image interpretati
 
 Hope it helps you!
 
-合成孔径雷达（SAR）影像目标检测是雷达图像解译应用的重要需求之一，该项目提出了一种改进的基于瑞利分布的双参数恒虚警率（CFAR）算法，并将其与形态学处理相结合，用于高分辨率SAR图像舰船目标检测与识别。在本项目中，将提供一些简单的模板代码，以帮助初学者理解和学习相关的理论和算法。它们不仅适用于简单的实验，也适用于今后的扩展。希望对你有帮助！
+合成孔径雷达（SAR）影像目标检测是雷达图像解译应用的重要需求之一，该项目提出了一种改进的基于瑞利分布的双参数恒虚警率（CFAR）算法，并将其与形态学处理相结合，用于高分辨率SAR图像舰船目标检测与识别。在本项目中，将提供一些简单的模板代码，以帮助初学者理解和学习相关的理论和算法。它们不仅适用于简单的实验，也适用于今后的扩展。希望该项目对你有所帮助！
 
 ## Constant False Alarm Rate (CFAR)
 CFAR is a pixel-level target detection algorithm. For targets such as vehicles, ships, and aircrafts, they are generally required to have a strong contrast to the background clutter. Target detection is achieved by judging whether the gray value of each pixel exceeds a certain preset value. In this case, the detection threshold is generally related to the false alarm rate, the statistical model of the background clutter around the target and the CFAR detector.
@@ -20,7 +20,7 @@ CFAR算法是一种像素级的目标检测算法，对于车辆、舰船、飞�
 
 In general, the CFAR detection algorithm consists of importing a SAR image and discerning each pixel in the entire image. Determine the background distribution of the clutter based on the SAR image and then estimate the distribution parameters of the clutter pixels in the sliding window. In the case of a given false alarm probability, the CFAR threshold is resolved and compared with the corresponding pixel value to obtain the pixel detection result. This process will work with all the pixels in the input SAR image, eventually traversing the entire image to get the detection result.
 
-通常，CFAR检测算法主要通过导入SAR图像并识别整个图像中的每个像素，并根据SAR图像确定背景的杂波分布，然后估计滑动窗口中杂波像素的分布参数。在给定虚警率的情况下，求解CFAR阈值，并与对应的像素值进行比较，从而得到每个像素的检测结果。这个过程将对输入SAR图像中的所有像素进行处理，最终遍历整个图像得到检测结果。
+通常，CFAR检测算法主要通过导入SAR图像并识别整个图像中的每个像素，并根据图像确定背景的杂波分布，然后估计滑动窗口中杂波像素的分布参数。在给定虚警率的情况下，求解CFAR阈值，并与对应的像素值进行比较，从而得到每个像素的检测结果。这个过程将对输入SAR图像中的所有像素进行处理，最终遍历整个图像得到检测结果。
 
 ## Mathematical Morphology (MM)
 MM is a technique for the analysis and treatment of geometric structures, based on set theory, lattice theory, topology and random functions. It not only applies to digital images, but can be used for graphics, polygon meshes, solids, and many other spatial structures.
