@@ -14,7 +14,7 @@ Hope it helps you!
 ## Constant False Alarm Rate (CFAR)
 CFAR is a pixel-level target detection algorithm. For targets such as vehicles, ships, and aircrafts, they are generally required to have a strong contrast to the background clutter. Target detection is achieved by judging whether the gray value of each pixel exceeds a certain preset value. In this case, the detection threshold is generally related to the false alarm rate, the statistical model of the background clutter around the target and the CFAR detector.
 
-CFAR算法是一种像素级的目标检测算法，对于车辆、舰船、飞机等目标来说，一般要求与背景杂波有强烈的对比。通过判断每个像素的灰度值是否超过某个预设值，来实现目标的检测。在这种情况下，检测阈值一般与虚警率、目标周围背景杂波的统计模型和CFAR检测器有关。
+CFAR算法是一种像素级的目标检测算法，对于车辆、舰船、飞机等目标来说，一般要求目标本身与背景杂波有强烈的对比。通过判断每个像素的灰度值是否超过某个预设值来实现目标检测。在这种情况下，检测阈值一般与虚警率、目标周围背景杂波的统计模型和CFAR检测器有关。
 
 ![image](https://user-images.githubusercontent.com/97808991/149919888-7098ff76-ead1-4d0f-9dfd-b47c1d5d6aec.png)
 
