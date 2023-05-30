@@ -27,7 +27,7 @@ MM is a technique for the analysis and treatment of geometric structures, based 
 
 For the filtered SAR image, a simple erosion operation can remove small nonsensical objects and speckle noises with independent high brightness that is erroneously judged as the target pixel in the image. And the dilation operation can fill the black hole caused by the low value speckle noises in the target area, and it can also fill in the missing target pixels and connect the adjacent unconnected target area pixels.
 
-数学形态学是一种基于集合论、格论、拓扑和随机函数的几何结构分析与处理技术。它不仅适用于数字图像，还可用于图形、多边形网格、实体和许多其他空间结构。对于滤波后的SAR图像，简单的腐蚀操作可以去除图像中被误判为目标像素的、具有独立高亮度的、小的、无意义的物体和散斑噪声；而膨胀运算可以填充目标区域中低值散斑噪声造成的空隙，也可以填充缺失的目标像素，连接相邻的未连接的目标区域像素。
+数学形态学是一种基于集合论、格论、拓扑和随机函数的几何结构分析与处理技术。它不仅适用于数字图像，还可用于图形、多边形网格、实体和许多其他空间结构。对于滤波后的SAR图像，简单的腐蚀操作可以去除图像中被误判为目标像素的、具有独立高亮度的、小的、无意义的物体和散斑噪声；而膨胀运算可以填充目标区域中低值散斑噪声造成的空隙，也可以补全缺失的目标像素，连接相邻的未连接的目标区域像素。
 
 ## Available Data
 China Center for Resources Satellite Data and Application, Copernicus Open Access Hub - Gaofen-3 & Sentinel-1
