@@ -47,7 +47,7 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 
 ![image](https://user-images.githubusercontent.com/97808991/149931239-b8c9b1b2-2e62-40c5-acec-c2fac02278e4.png)
 
-[`Target_mark`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/Target_mark.m) --- A simple target box code that can be used to study marking the target. 简单的目标框代码，可用来研究标记目标的方法
+[`Target_mark`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR/blob/main/Target_mark.m) --- A simple target box code that can be used to study marking the target. 简单的目标框代码，研究标记目标的方法
 
 ![gf_hh_01](https://user-images.githubusercontent.com/97808991/149931364-a7f6d9e7-230b-4d32-b9d8-912184051510.png)
 
