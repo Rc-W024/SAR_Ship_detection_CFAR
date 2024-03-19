@@ -9,7 +9,7 @@ centroid=regionprops(L,'Centroid');
 figure;
 imshow(img,'Border','tight');
 hold on
-
+% marking...
 for n=1:num
     rectangle('Position',status(n).BoundingBox,'EdgeColor','r')
 end
