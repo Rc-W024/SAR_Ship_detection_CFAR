@@ -52,11 +52,12 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 ![gf_hh_01](https://user-images.githubusercontent.com/97808991/149931364-a7f6d9e7-230b-4d32-b9d8-912184051510.png)
 
 ## One more thing...
-If you are interested in this project, you can also read my preprint paper: 如果你对这个项目感兴趣，也可以了解、研究一下我的预印本论文！【当然也欢迎申请访问我的硕士论文（西班牙语）】
+**FYI:**
 
+### Preprint paper...
 Wu, R. Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images. Preprints 2021, 2021120280. DOI: [10.20944/preprints202112.0280.v1](https://doi.org/10.20944/preprints202112.0280.v1)
 
-### Master's Thesis...
+### Master's thesis...
 DETECCIÓN Y RECONOCIMIENTO DE BLANCOS BASADOS EN IMÁGENES SAR (Spainsh Version)<br>http://hdl.handle.net/10251/166986 (Trabajo Fin de Máster - Universitat Politècnica de València)
 
 Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. Universitat Politècnica de València. HANDLE: [10251/166986](http://hdl.handle.net/10251/166986)
