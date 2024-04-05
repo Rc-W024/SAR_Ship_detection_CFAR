@@ -58,7 +58,7 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 Citation:
 
 ```bibtex
-@article{wucfar2021,
+@article{wu2021cfar,
  title={Two-Parameter {CFAR} Ship Detection Algorithm Based on Rayleigh Distribution in {SAR} Images},
  author={Wu, Ruochen},
  year={2021},
@@ -78,7 +78,7 @@ Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. 
 Citation:
 
 ```bibtex
-@masterthesis{wusar2021,
+@masterthesis{wu2021sar,
   title={Detección y reconocimiento de blancos basados en imágenes SAR},
   author={Wu, Ruochen},
   year=2021,
