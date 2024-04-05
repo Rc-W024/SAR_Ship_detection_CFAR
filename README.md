@@ -59,7 +59,7 @@ Citation:
 
 ```bibtex
 @article{wu2021cfar,
- title={Two-Parameter {CFAR} Ship Detection Algorithm Based on Rayleigh Distribution in {SAR} Images},
+ title={Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images},
  author={Wu, Ruochen},
  year={2021},
  number={2021120280},
