@@ -5,6 +5,8 @@
 ![](https://img.shields.io/github/issues/Rc-W024/SAR_Ship_detection_CFAR.svg)
 ![](https://img.shields.io/github/license/Rc-W024/SAR_Ship_detection_CFAR.svg)
 
+[**Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images**](https://www.preprints.org/manuscript/202112.0280/v1)
+
 SAR image targets detection is one of the main needs of radar image interpretation applications. In this project, an improved two-parameter CFAR algorithm based on Rayleigh distribution and morphological processing is proposed to perform ship detection and recognition in high resolution SAR images. In this project, I will provide a few simple template codes to help beginners understand and learn related theories and algorithms. They are not only suitable for simple experiments, but also suitable for later expansion. 
 
 Hope it helps you! ¡Ahora vamos!
@@ -51,12 +53,39 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 
 ![gf_hh_01](https://user-images.githubusercontent.com/97808991/149931364-a7f6d9e7-230b-4d32-b9d8-912184051510.png)
 
-## One more thing...
-### FYI:
+## FYI
 ### Preprint paper...
-Wu, R. Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images. Preprints 2021, 2021120280. DOI: [10.20944/preprints202112.0280.v1](https://doi.org/10.20944/preprints202112.0280.v1)
+Citation:
+
+```bibtex
+@article{wucfar2021,
+ title={Two-Parameter {CFAR} Ship Detection Algorithm Based on Rayleigh Distribution in {SAR} Images},
+ author={Wu, Ruochen},
+ year={2021},
+ number={2021120280},
+ journal={Preprints},
+ issn={2310-287X},
+ url={https://doi.org/10.20944/preprints202112.0280.v1},
+ doi={10.20944/preprints202112.0280.v1},
+}
+```
 
 ### Master's thesis...
 DETECCIÓN Y RECONOCIMIENTO DE BLANCOS BASADOS EN IMÁGENES SAR (Spainsh Version)<br>http://hdl.handle.net/10251/166986 (Trabajo Fin de Máster - Universitat Politècnica de València)
 
 Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. Universitat Politècnica de València. HANDLE: [10251/166986](http://hdl.handle.net/10251/166986)
+
+Citation:
+
+```bibtex
+@masterthesis{wusar2021,
+  title={Detección y reconocimiento de blancos basados en imágenes SAR},
+  author={Wu, Ruochen},
+  year=2021,
+  month={May},
+  address={València, Spain},
+  note={Available at \url{http://hdl.handle.net/10251/166986}},
+  school={Universitat Politècnica de València},
+  type= {Master's thesis}
+}
+```
