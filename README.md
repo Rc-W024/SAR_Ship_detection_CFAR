@@ -7,6 +7,8 @@
 
 [**Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images**](https://www.preprints.org/manuscript/202112.0280/v1)
 
+*It is available on [paperswithcode.com](https://paperswithcode.com/paper/two-parameter-cfar-ship-detection-algorithm).*
+
 SAR image targets detection is one of the main needs of radar image interpretation applications. In this project, an improved two-parameter CFAR algorithm based on Rayleigh distribution and morphological processing is proposed to perform ship detection and recognition in high resolution SAR images. In this project, I will provide a few simple template codes to help beginners understand and learn related theories and algorithms. They are not only suitable for simple experiments, but also suitable for later expansion. 
 
 Hope it helps you! ¡Ahora vamos!
