@@ -57,7 +57,7 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
 
 ## FYI
 ### Preprint paper...
-Citation:
+**Citation:**
 
 ```bibtex
 @article{wu2021cfar,
@@ -77,7 +77,7 @@ DETECCIÓN Y RECONOCIMIENTO DE BLANCOS BASADOS EN IMÁGENES SAR (Spainsh Version
 
 Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. Universitat Politècnica de València. HANDLE: [10251/166986](http://hdl.handle.net/10251/166986)
 
-Citation:
+**Citation:**
 
 ```bibtex
 @masterthesis{wu2021sar,
