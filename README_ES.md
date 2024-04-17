@@ -28,7 +28,7 @@ Se utilizado el conjunto de datos de imágenes satelitales SAR de **Gaofen-3** y
 
 GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
-## Indtroducción de los ficheros
+## Introducción de los ficheros
 Carpeta `Raw images` --- Slices de imágenes SAR para la detección de barcos, que incluyen la información correspondiente del blanco (archivo XLM).
 
 ![image](https://user-images.githubusercontent.com/97808991/149931264-456b8d39-c7f2-423b-ba48-a471109e8844.png)
