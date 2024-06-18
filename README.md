@@ -11,18 +11,24 @@ English | [中文](README_CN.md) | [Español](README_ES.md)
 
 *It is available on [paperswithcode.com](https://paperswithcode.com/paper/two-parameter-cfar-ship-detection-algorithm).*
 
-SAR image targets detection is one of the main needs of radar image interpretation applications. In this project, an improved two-parameter CFAR algorithm based on Rayleigh distribution and morphological processing is proposed to perform ship detection and recognition in high resolution SAR images. In this project, I will provide a few simple template codes to help beginners understand and learn related theories and algorithms. They are not only suitable for simple experiments, but also suitable for later expansion. 
+SAR image targets detection is one of the main needs of radar image interpretation applications. In this project, an improved two-parameter CFAR algorithm based on Rayleigh distribution and morphological processing is proposed to perform ship detection and recognition in high resolution SAR images. In this project, I will provide a few simple template codes to help beginners understand and learn related theories and algorithms. They are not only suitable for simple experiments, but also suitable for later expansion.
+
+> [!WARNING]\
+> This repository is a modular code based on constant false alarm rate (CFAR) and mathematical morphology (MM) algorithm, which is **NOT** a complete fully automated detection program.
+
+> [!NOTE]\
+The main code can be run directly, but the parameters must be adjusted according to the input SAR image to implement the detection correctly. The code is mainly used to study the basic theory and logic of the algorithms. In particular, you are encouraged to optimize and develop it based on it, or incorporate it into the AI to achieve automated target detection.
 
 Hope it helps you! ¡Ahora vamos!
 
-## Constant False Alarm Rate (CFAR)
+## Constant False Alarm Rate
 CFAR is a pixel-level target detection algorithm. For targets such as vehicles, ships, and aircrafts, they are generally required to have a strong contrast to the background clutter. Target detection is achieved by judging whether the gray value of each pixel exceeds a certain preset value. In this case, the detection threshold is generally related to the false alarm rate, the statistical model of the background clutter around the target and the CFAR detector.
 
 ![image](https://user-images.githubusercontent.com/97808991/149919888-7098ff76-ead1-4d0f-9dfd-b47c1d5d6aec.png)
 
 In general, the CFAR detection algorithm consists of importing a SAR image and discerning each pixel in the entire image. Determine the background distribution of the clutter based on the SAR image and then estimate the distribution parameters of the clutter pixels in the sliding window. In the case of a given false alarm probability, the CFAR threshold is resolved and compared with the corresponding pixel value to obtain the pixel detection result. This process will work with all the pixels in the input SAR image, eventually traversing the entire image to get the detection result.
 
-## Mathematical Morphology (MM)
+## Mathematical Morphology
 MM is a technique for the analysis and treatment of geometric structures, based on set theory, lattice theory, topology and random functions. It not only applies to digital images, but can be used for graphics, polygon meshes, solids, and many other spatial structures.
 
 For the filtered SAR image, a simple erosion operation can remove small nonsensical objects and speckle noises with independent high brightness that is erroneously judged as the target pixel in the image. And the dilation operation can fill the black hole caused by the low value speckle noises in the target area, and it can also fill in the missing target pixels and connect the adjacent unconnected target area pixels.
