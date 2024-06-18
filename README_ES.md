@@ -13,7 +13,13 @@
 
 La detección de blancos en imágenes de radar de apertura sintética (SAR) es una de las necesidades importantes de la aplicación de interpretación de imágenes de radar. Este proyecto propone un algoritmo mejorado de CFAR basado en distribución de Rayleigh con dos parámetros, combinado con operaciones morfológicas, para la detección y reconocimiento de blancos de barcos en imágenes SAR de alta resolución. En este proyecto, se proporciona algunos códigos simples para ayudar a los principiantes a comprender y aprender las teorías y algoritmos relevantes. Estos no solo son aplicables a experimentos simples, sino también a futuras ampliaciones.
 
-## Tasa Constante de Falsas Alarmas (CFAR)
+> [!WARNING]\
+> Este proyecto es un código modular basado en los algoritmos de tasa constante de falsas alarmas (CFAR) y morfología matemática (MM), y **NO** es un programa de detección completo y totalmente automatizado.
+
+> [!NOTE]\
+El código principal se puede ejecutar directamente, pero los parámetros deben ajustarse de acuerdo con la imagen SAR de entrada para lograr una detección correcta. El código se usa principalmente para aprender y estudiar la teoría básica y la lógica de los algoritmos. En particular, se le recomienda optimizarlo y desarrollarlo en base a él, o incorporarlo en algoritmos de inteligencia artificial para lograr la detección automática de blancos.
+
+## Tasa Constante de Falsas Alarmas
 Las técnicas CFAR son un método de detección de blancos a nivel de píxel que requiere que los objetos, como vehículos, barcos y aviones, tengan un fuerte contraste con el ruido de fondo. La detección se realiza determinando si el valor de gris de cada píxel supera un valor preestablecido. En este caso, el umbral de detección generalmente está relacionado con la tasa de falsas alarmas, el modelo estadístico del ruido de fondo alrededor del blanco y el detector CFAR.
 
 ![image](https://user-images.githubusercontent.com/97808991/149919888-7098ff76-ead1-4d0f-9dfd-b47c1d5d6aec.png)
