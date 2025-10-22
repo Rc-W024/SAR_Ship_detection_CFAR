@@ -34,7 +34,7 @@ La morfología matemática es una técnica de análisis y procesamiento de estru
 ## Conjunto de Datos Disponible
 Se utilizado el conjunto de datos de imágenes satelitales SAR de **Gaofen-3** y **Sentinel-1**, proporcionadas por el Centro de Aplicación de Satélites de Recursos de China y Copernicus Open Access Hub.
 
-GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
+GitHub Repo: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
 ## Introducción de los ficheros
 Carpeta `Raw images` --- Slices de imágenes SAR para la detección de barcos, que incluyen la información correspondiente del blanco (archivo XLM).
