@@ -38,7 +38,7 @@ For the filtered SAR image, a simple erosion operation can remove small nonsensi
 ## Available Dataset
 China Center for Resources Satellite Data and Application, Copernicus Open Access Hub - Gaofen-3 & Sentinel-1
 
-GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
+GitHub Repo: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
 ## Introduction for Files
 Folder `Raw images` --- Some slices of SAR images are provided to perform ship detection. It also contains target information, which is in the *XLM* file.
