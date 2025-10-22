@@ -34,7 +34,7 @@ CFAR算法是一种像素级的目标检测算法，对于车辆、舰船、飞�
 ## 可用数据集
 实验数据集使用了中国资源卫星应用中心和哥白尼开放数据访问中心提供的**高分三号**和**哨兵一号**SAR卫星影像。
 
-GitHub Rep: [`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
+GitHub仓库：[`CAESAR-Radi/SAR-Ship-Dataset`](https://github.com/CAESAR-Radi/SAR-Ship-Dataset)
 
 ## 文件简介
 Folder `Raw images` --- 用于船舶检测的SAR图像切片，其中包含了对应的目标信息（XLM文件）
