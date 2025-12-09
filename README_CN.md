@@ -65,7 +65,7 @@ Folder `Raw images` --- 用于船舶检测的SAR图像切片，其中包含了�
  journal={Preprints},
  issn={2310-287X},
  url={https://doi.org/10.20944/preprints202112.0280.v1},
- doi={10.20944/preprints202112.0280.v1},
+ doi={10.20944/preprints202112.0280.v1}
 }
 ```
 
