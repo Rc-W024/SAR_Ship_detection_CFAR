@@ -69,7 +69,7 @@ Folder `Raw images` --- Some slices of SAR images are provided to perform ship d
  journal={Preprints},
  issn={2310-287X},
  url={https://doi.org/10.20944/preprints202112.0280.v1},
- doi={10.20944/preprints202112.0280.v1},
+ doi={10.20944/preprints202112.0280.v1}
 }
 ```
 
