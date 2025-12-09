@@ -9,7 +9,9 @@
 ![](https://img.shields.io/github/issues/Rc-W024/SAR_Ship_detection_CFAR.svg)
 ![](https://img.shields.io/github/license/Rc-W024/SAR_Ship_detection_CFAR.svg)
 
-[**Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images**](https://www.preprints.org/manuscript/202112.0280/v1)
+[**Detección y reconocimiento de blancos basados en imágenes SAR**](http://hdl.handle.net/10251/166986)
+
+[**Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images**](https://doi.org/10.20944/preprints202112.0280.v1)
 
 *Está disponible en [paperswithcode.com](https://paperswithcode.com/paper/two-parameter-cfar-ship-detection-algorithm).*
 
@@ -54,7 +56,6 @@ Carpeta `Raw images` --- Slices de imágenes SAR para la detección de barcos, q
 ## FYI
 ### Preprint paper...
 **Citación:**
-
 ```bibtex
 @article{wu2021cfar,
  title={Two-Parameter CFAR Ship Detection Algorithm Based on Rayleigh Distribution in SAR Images},
@@ -69,12 +70,7 @@ Carpeta `Raw images` --- Slices de imágenes SAR para la detección de barcos, q
 ```
 
 ### TFM...
-DETECCIÓN Y RECONOCIMIENTO DE BLANCOS BASADOS EN IMÁGENES SAR<br>http://hdl.handle.net/10251/166986 (Trabajo Fin de Máster - Universitat Politècnica de València)
-
-Wu, R. (2021). Detección y reconocimiento de blancos basados en imágenes SAR. Universitat Politècnica de València. HANDLE: [10251/166986](http://hdl.handle.net/10251/166986)
-
 **Citación:**
-
 ```bibtex
 @masterthesis{wu2021sar,
   title={Detección y reconocimiento de blancos basados en imágenes SAR},
