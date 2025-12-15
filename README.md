@@ -3,11 +3,10 @@ English | [中文](README_CN.md) | [Español](README_ES.md)
 
 ![](https://skillicons.dev/icons?i=matlab)
 
-![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99)
-![](https://img.shields.io/github/stars/Rc-W024/SAR_Ship_detection_CFAR.svg)
-![](https://img.shields.io/github/forks/Rc-W024/SAR_Ship_detection_CFAR.svg)
-![](https://img.shields.io/github/issues/Rc-W024/SAR_Ship_detection_CFAR.svg)
-![](https://img.shields.io/github/license/Rc-W024/SAR_Ship_detection_CFAR.svg)
+![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat-square&color=BC4E99)
+![](https://img.shields.io/github/stars/Rc-W024/SAR_Ship_detection_CFAR?style=flat-square&logo=github&label=Stars&color=F2C94C)
+![](https://img.shields.io/github/forks/Rc-W024/SAR_Ship_detection_CFAR?style=flat-square)
+![](https://img.shields.io/github/license/Rc-W024/SAR_Ship_detection_CFAR?style=flat-square)
 
 [**Detección y reconocimiento de blancos basados en imágenes SAR**](http://hdl.handle.net/10251/166986)
 
